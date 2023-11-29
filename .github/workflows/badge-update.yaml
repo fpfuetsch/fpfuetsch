@@ -14,4 +14,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          BADGE_SIZE: 300
+          BADGE_SIZE: 200
